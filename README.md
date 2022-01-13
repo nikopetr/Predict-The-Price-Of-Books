@@ -1,7 +1,7 @@
 # Predict-The-Price-Of-Books
 
 <p align="center">
-  <img src="https://github.com/nikopetr/Predict-The-Price-Of-Bookst/blob/main/images/book-g15de16620_1920.jpg" width="800" height="400"/>
+  <img src="https://github.com/nikopetr/Predict-The-Price-Of-Books/blob/main/images/book-g15de16620_1920.jpg" width="800" height="400"/>
 </p>
 
 For this task, a big dataset which consists of book of different genres and authors was utilized. The provided dataset included various book features, such as Author, Edition, Reviews, etc. Those features have been used as regressors in order to predict the price of books, using various proposed methods and models.
@@ -28,7 +28,7 @@ Some of the key methods which were used throughout the work are:
 An abstract methodology scheme of the work is illustrated in the following Figure.
 
 <p align="center">
-  <img src="https://github.com/nikopetr/Predict-The-Price-Of-Bookst/blob/main/images/predict_books_schema.png" width="700" height="500"/>
+  <img src="https://github.com/nikopetr/Predict-The-Price-Of-Books/blob/main/images/predict_books_schema.png" width="700" height="500"/>
 </p>
 
 Summarizing, firstly the exploratory data understanding process was commenced. Each feature was assessed in order to obtain a better understanding of what it represents and how it could affect book pricing. Next, each future was brought into a format that was appropriate for model development. Following, through visualization, it was examined how the different features were correlated to the dependent-target variable. Furthermore, the processed data were used to implement the employed models. The prediction-modelling phase was conducted with two different approaches. Finally, the whole methodology procedure followed a cyclical behaviour, until the final prediction model was implemented.
